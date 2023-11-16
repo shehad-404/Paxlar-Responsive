@@ -1,0 +1,221 @@
+/*#################      max-width: 1199     #################*/
+/* @media(max-width:1199px){
+
+} */
+
+
+
+/*#################      max-width: 991     #################*/
+@media(max-width:991px){
+    .iPhone {
+        height: 64% !important;
+        left: 10% !important;
+    }
+}
+
+
+
+
+/*#################      max-width: 767     #################*/
+@media(max-width:767px){
+    .navbar-nav {
+        text-align: center !important;
+    }
+    .navbar-brand{
+        margin: auto !important;
+    }
+    /* .topheader.active .navbar-collapse {
+        display: none;
+    } */
+    /* .topheader.active .navbar-toggler i{
+        color: #fff;
+    } */
+    .banner_section .btn_join {
+        margin: 10px auto;
+    }
+    .service_section .col-md-4{
+        margin-bottom: 30px;
+    }
+    .iPhone {
+        display: none;
+    }
+    
+
+    .simple_section .service_title {
+        text-align: center;
+    }
+    .simple_section .service_title span {
+        margin: 10px auto !important;
+    }
+    .pattern_img {
+        display: inline-block !important;
+        margin-bottom: 44px !important;
+    }
+    .box_1 {
+        display: none;
+    }
+    .box_2 {
+        display: none;
+    }
+    .box_3 {
+        display: none;
+    }
+    .box_4 {
+        display: none;
+    }
+    .box_5 {
+        display: none;
+    }
+    .box_6 {
+        display: none;
+    }
+    .bitcoin_logo{
+        display: none;
+    }
+
+    .team_expert {
+        margin-bottom: 50px !important;
+    }
+    .team_expert img {
+        width: 38% !important;
+    }
+
+    .owl-carousel .owl-item img {
+        width: 20% !important;
+    }
+
+    /* footer top */
+    .footer_top .row{
+        text-align: center;
+        padding-bottom: 0px !important;
+    }
+    .footer_top .col-md-3{
+        margin-bottom: 30px;
+    }
+    .icon_box {
+        display: flex;
+        justify-content: center;
+    }
+    .second_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .icon_wrapper {
+        justify-content: center;
+    }
+    .third_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .fourth_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .fourth_col form {
+        width: 60%;
+        margin: auto;
+    }
+    .footer_bottom .col-md-3{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+/*#################      max-width: 575     #################*/
+@media(max-width:575px){
+    .navbar-nav {
+        text-align: center !important;
+    }
+    .navbar-brand{
+        margin: auto !important;
+    }
+    /* .topheader.active .navbar-collapse {
+        display: none;
+    } */
+    /* .topheader.active .navbar-toggler i{
+        color: #fff;
+    } */
+    .banner_section .btn_join {
+        margin: 10px auto;
+    }
+    .service_section .col-md-4{
+        margin-bottom: 30px;
+    }
+    .iPhone {
+        display: none;
+    }
+    
+
+    .simple_section .service_title {
+        text-align: center;
+    }
+    .simple_section .service_title span {
+        margin: 10px auto !important;
+    }
+    .pattern_img {
+        display: inline-block !important;
+        margin-bottom: 44px !important;
+    }
+    .box_1 {
+        display: none;
+    }
+    .box_2 {
+        display: none;
+    }
+    .box_3 {
+        display: none;
+    }
+    .box_4 {
+        display: none;
+    }
+    .box_5 {
+        display: none;
+    }
+    .box_6 {
+        display: none;
+    }
+    .bitcoin_logo{
+        display: none;
+    }
+
+    .team_expert {
+        margin-bottom: 50px !important;
+    }
+    .team_expert img {
+        width: 38% !important;
+    }
+
+    .owl-carousel .owl-item img {
+        width: 20% !important;
+    }
+
+    /* footer top */
+    .footer_top .row{
+        text-align: center;
+        padding-bottom: 0px !important;
+    }
+    .footer_top .col-md-3{
+        margin-bottom: 30px;
+    }
+    .icon_box {
+        display: flex;
+        justify-content: center;
+    }
+    .second_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .icon_wrapper {
+        justify-content: center;
+    }
+    .third_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .fourth_col .service_title span {
+        margin: 10px auto 30px !important;
+    }
+    .fourth_col form {
+        width: 60%;
+        margin: auto;
+    }
+    .footer_bottom .col-md-3{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
